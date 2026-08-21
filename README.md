@@ -238,9 +238,9 @@ prompt-injection-attacks-on-LVLMS/
 
 | Name | GitHub |
 |---|---|
-| Reet | [@Reet1207](https://github.com/Ritik1207-ind) |
-| Member 2 | — |
-| Member 3 | — |
+| Ritik Sinha | [@Ritik1207-ind](https://github.com/Ritik1207-ind) |
+| Siddhant Kumar | [@siddhantkumar101](https://github.com/siddhantkumar101) |
+| Udit Dadhich | [@UditDadhich](https://github.com/UditDadhich) |
 
 ---
 
